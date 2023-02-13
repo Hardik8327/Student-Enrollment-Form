@@ -17,13 +17,13 @@ It is built on top of one of the fastest and real-time data indexing engine - Po
 It helps developers in faster coding, in-turn reduces development cost.
 
 #Release History
-v0.0.0 (11/02/2023)
+v2.0 (11/02/2023)
 Initialization:
 [#1] Added basic designs of all planned HTML pages
-v0.1.0 (12/02/2023)
+v2.0 (12/02/2023)
 #Enhancements:
 Designed all HTML pages and connected with js
-v0.1.1 (12/02/2023)
+v2.0 (12/02/2023)
 
 #Enhancements:
 [#5] Added a README.md file
