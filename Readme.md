@@ -17,15 +17,13 @@ It is built on top of one of the fastest and real-time data indexing engine - Po
 It helps developers in faster coding, in-turn reduces development cost.
 
 #Release History
-v0.0.0 (27/02/2021)
+v0.0.0 (11/02/2023)
 Initialization:
 [#1] Added basic designs of all planned HTML pages
-v0.1.0 (28/02/2021)
+v0.1.0 (12/02/2023)
 #Enhancements:
-[#2] Designed all HTML pages
-[#3] Added JS and connected pages to JsonPowerDB
-[#4] Tested all pages
-v0.1.1 (01/03/2021)
+Designed all HTML pages and connected with js
+v0.1.1 (12/02/2023)
 
 #Enhancements:
 [#5] Added a README.md file
