@@ -52,7 +52,7 @@ Web Browser
 Database Connection Token
 ## Execution
 open index.html to open the Index page [Code](https://github.com/Hardik8327/Student-Enrollment-Form/blob/master/public_html/index.html)
-Website
+**Website**
 
 
 # Scope of functionalities
